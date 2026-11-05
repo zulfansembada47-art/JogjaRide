@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294297181871",
+    "project_id": "jogjaride",
+    "storage_bucket": "jogjaride.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294297181871:android:1deca6392ecd83ecfa3e5a",
+        "android_client_info": {
+          "package_name": "com.jogjaride.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294297181871-prkqvir6h5ouis47ttrk6v6cd64s4h6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jogjaride.app",
+            "certificate_hash": "de37fcb9d5defc09436174dcc58a1a08ca2d2c63"
+          }
+        },
+        {
+          "client_id": "294297181871-5cuia9bh7f4dprlrurh2lpcn9d5qpmse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OFUVaa0aheCe2MmdPJ6i2S0w5LdjVuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294297181871-5cuia9bh7f4dprlrurh2lpcn9d5qpmse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
